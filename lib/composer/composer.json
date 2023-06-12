@@ -1,0 +1,16 @@
+{
+    "name": "wef/calendar",
+    "description": "Agenda Clinica",
+    "authors": [
+        {
+            "name": "ADMS"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Classes\\":"..//..//class",
+            "Models\\": "..//..//model"
+        }
+    }
+}
